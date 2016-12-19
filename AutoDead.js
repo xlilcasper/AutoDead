@@ -1,7 +1,7 @@
 var AUTODEAD = AUTODEAD || (function() {
         'use strict';
         var version='0.1',
-            lastUpdate = 1480353432,
+            lastUpdate = 1482188348,
         //Format is "property in config": [type,label,dropdown list (dropdowns only)]
             configMenu = {
                 "MarkOnlyNPC": ["toggle","NPCs Only"],
